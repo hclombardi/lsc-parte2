@@ -49,6 +49,11 @@ Para executar o projeto:
 java -jar target/lsc-parte2-0.0.1-SNAPSHOT.jar
 ```
 
+O Tomcat será inicializado na porta 8080:
+```
+Tomcat initialized with port(s): 8080 (http)
+```
+
 ## Execução dos testes unitarios
 
 No proprio processo de build já são executados os testes unitários.
